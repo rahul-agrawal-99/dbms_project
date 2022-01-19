@@ -11,9 +11,9 @@
 <!-- ------------------------------------------------ end --------------------------------------------------------------------- -->
 This is online based shop where user can purchase listed products , can make online transaction  . also shop owner can manage products , add/update products price and stock. also owner has access to view all transaction made by all user with details.</br></br>
 Project build using :  </br>
-<img src="https://github.com/rahul-agrawal-99/dbms_project/blob/master/readmeReq/pythonpng.png" width="10%">
-<img src="https://github.com/rahul-agrawal-99/dbms_project/blob/master/readmeReq/flask.png" width="8%">
-<img src="https://github.com/rahul-agrawal-99/dbms_project/blob/master/readmeReq/mysql.png" width="10%"></br>
+<img src="https://github.com/rahul-agrawal-99/dbms_project/blob/main/readmeReq/pythonpng.png" width="10%">
+<img src="https://github.com/rahul-agrawal-99/dbms_project/blob/main/readmeReq/flask.png" width="8%">
+<img src="https://github.com/rahul-agrawal-99/dbms_project/blob/main/readmeReq/mysql.png" width="10%"></br>
 **Requirements**  </br>
 python == 3.8.7 </br>
 mysql-server == 8.0.24 </br>
