@@ -1,5 +1,5 @@
 ### [Video Demo](https://drive.google.com/file/d/1pnxAPx4_3pFdh6RE-uBZZNLH4Jx8Prr-/view?usp=sharing)
-### [View Site](http://mini-shop-project.herokuapp.com/)
+### [View Site](http://mini-shop-project.herokuapp.com/)   &nbsp; <sub> *some pages may be down due to heroku's restriction for free deployment</sub>
 <!-- ------------------------------------------------  start  --------------------------------------------------------------------- -->
 ## Author
 
